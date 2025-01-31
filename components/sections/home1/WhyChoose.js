@@ -3,7 +3,7 @@ export default function WhyChoose() {
     return (
         <>
             {/*Why Choose One Start*/}
-            <section className="why-choose-one">
+            <section className="why-choose-one" style={{marginTop:'40px'}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6">

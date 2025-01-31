@@ -5,9 +5,9 @@ export default function Menu() {
     // const router = useRouter()
 
     return (
-        <>
-        <ul className="main-menu__list">
-            <li className="dropdown">
+        <div  >
+        <ul className="main-menu__list"  >
+            {/* <li className="dropdown">
                 <Link href="/">Home </Link>
                 <ul>
                 <li>
@@ -28,11 +28,17 @@ export default function Menu() {
                     </ul>
                 </li>
                 </ul>
+            </li> */}
+            <li>
+                <Link href="/">Home</Link>
             </li>
             <li>
                 <Link href="/about">About</Link>
             </li>
-            <li className="dropdown">
+            <li>
+                <Link href="#">services</Link>
+            </li>
+            {/* <li className="dropdown">
                 <Link href="#">Pages</Link>
                 <ul>
                 <li>
@@ -54,8 +60,8 @@ export default function Menu() {
                     <Link href="/404">404 Error</Link>
                 </li>
                 </ul>
-            </li>
-            <li className="dropdown">
+            </li> */}
+            {/* <li className="dropdown">
                 <Link href="#">Services</Link>
                 <ul>
                 <li>
@@ -80,8 +86,8 @@ export default function Menu() {
                     <Link href="/on-point-distribution">On Point Distribution</Link>
                 </li>
                 </ul>
-            </li>
-            <li className="dropdown">
+            </li> */}
+            {/* <li className="dropdown">
                 <Link href="#">Projects</Link>
                 <ul>
                 <li>
@@ -91,8 +97,8 @@ export default function Menu() {
                     <Link href="/project-details">Project Details</Link>
                 </li>
                 </ul>
-            </li>
-            <li className="dropdown">
+            </li> */}
+            {/* <li className="dropdown">
                 <Link href="#">Blog</Link>
                 <ul>
                 <li>
@@ -102,11 +108,11 @@ export default function Menu() {
                     <Link href="/blog-details">Blog Details</Link>
                 </li>
                 </ul>
-            </li>
+            </li> */}
             <li>
                 <Link href="/contact">Contact</Link>
             </li>
         </ul>
-        </>
+        </div>
     )
 }

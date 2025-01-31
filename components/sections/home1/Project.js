@@ -3,7 +3,7 @@ export default function Project() {
     return (
         <>
             {/*Project Two Start*/}
-            <section className="project-one">
+            <section className="project-one" style={{marginBottom:'30px'}}>
                 <div className="container">
                 <div className="row">
                     {/*Project Two Single Start*/}

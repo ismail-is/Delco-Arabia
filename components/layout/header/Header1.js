@@ -24,9 +24,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 </div>
                 <div className="main-menu__right">
                   <div className="main-menu__search-nav-sidebar-btn-box">
-                    <div className="main-menu__search-box" onClick={handlePopup}>
+                    {/* <div className="main-menu__search-box" onClick={handlePopup}>
                       <div className="main-menu__search search-toggler fas fa-search" />
-                    </div>
+                    </div> */}
                     <div className="main-menu__nav-sidebar-icon" onClick={handleSidebar}>
                       <div className="navSidebar-button">
                         <span className="icon-dots-menu-one" />
@@ -35,8 +35,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                       </div>
                     </div>
                     <div className="main-menu__btn-box">
-                      <Link href="/about" className="thm-btn main-menu__btn">
-                        Read more
+                      <Link href="/contact" className="thm-btn main-menu__btn">
+                       Contact Us
                         <span />
                       </Link>
                     </div>
@@ -68,11 +68,11 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 </div>
                 <div className="main-menu__right">
                   <div className="main-menu__search-nav-sidebar-btn-box">
-                    <div className="main-menu__search-box" onClick={handlePopup}>
+                    {/* <div className="main-menu__search-box" onClick={handlePopup}>
                       <div
                         className="main-menu__search search-toggler fas fa-search"
                       />
-                    </div>
+                    </div> */}
                     <div className="main-menu__nav-sidebar-icon" onClick={handleSidebar}>
                       <div className="navSidebar-button">
                         <span className="icon-dots-menu-one" />
@@ -81,8 +81,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                       </div>
                     </div>
                     <div className="main-menu__btn-box">
-                      <Link href="/about" className="thm-btn main-menu__btn">
-                        Read more
+                      <Link href="/contact" className="thm-btn main-menu__btn">
+                      Contact Us
                         <span />
                       </Link>
                     </div>

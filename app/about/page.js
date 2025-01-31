@@ -110,7 +110,7 @@ export default function Home() {
                     {/*About One End*/}
   
                     {/*Counter One Start*/}
-                    <section className="counter-one">
+                    {/* <section className="counter-one">
                         <div className="container">
                         <div className="row">
                             <div className="col-xl-5">
@@ -202,11 +202,11 @@ export default function Home() {
                             </div>
                         </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/*Counter One End*/}
 
                     {/*Testimonial One Start*/}
-                    <section className="testimonial-one">
+                    {/* <section className="testimonial-one">
                         <div className="container">
                         <div className="testimonial-one__inner">
                             <div className="testimonial-one__img-one">
@@ -237,7 +237,7 @@ export default function Home() {
                             </div>
                         </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/*Testimonial One End*/}
 
                     {/*Why Are We Start*/}
