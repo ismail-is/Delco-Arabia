@@ -26,11 +26,11 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Lets Talk us</h3>
                                 <p>
-                                    Phone number: <a href="tel:32566800890">+32566 - 800 - 890</a>
+                                    <a href="tel:+966 01 3667 0464">+966 01 3667 0464</a>
                                 </p>
-                                <p>
+                                {/* <p>
                                     Fax: <a href="tel:123458963007">1234 -58963 - 007</a>
-                                </p>
+                                </p> */}
                                 </div>
                             </li>
                             <li>
@@ -40,8 +40,7 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Address</h3>
                                 <p>
-                                    Dhaka 102, 8000 sent behaibior
-                                    <br /> road 45 house of street
+                                Ibn Al-Jawazi St. Makkah Al Mukarama Road,<br/>Al-Jubail Industrial City 35514,<br/> Kingdom of Saudi Arabia
                                 </p>
                                 </div>
                             </li>
@@ -52,13 +51,11 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Send us email</h3>
                                 <p>
-                                    <a href="mailto:nafizislam1223@gmail.com">
-                                    nafizislam1223@gmail.com
+                                    <a href="mailto:info@delcoarabia.com">
+                                    info@delcoarabia.com
                                     </a>
                                 </p>
-                                <p>
-                                    <a href="mailto:demo23gmail.com">demo23gmail.com</a>
-                                </p>
+                                
                                 </div>
                             </li>
                             </ul>

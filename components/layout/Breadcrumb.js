@@ -15,7 +15,7 @@ export default function Breadcrumb({ breadcrumbTitle }) {
                 <div className="page-header__inner">
                     <h2>{breadcrumbTitle}</h2>
                     <div className="thm-breadcrumb__box">
-                    <ul className="thm-breadcrumb list-unstyled">
+                    {/* <ul className="thm-breadcrumb list-unstyled">
                         <li>
                         <Link href="/">Home</Link>
                         </li>
@@ -23,7 +23,7 @@ export default function Breadcrumb({ breadcrumbTitle }) {
                         <span className="icon-angle-left" />
                         </li>
                         <li>{breadcrumbTitle}</li>
-                    </ul>
+                    </ul> */}
                     </div>
                 </div>
                 </div>

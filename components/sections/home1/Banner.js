@@ -46,15 +46,15 @@ export default function Banner() {
                       <div className="main-slider__content">
                         <div className="main-slider__sub-title-box">
                           <div className="main-slider__sub-title-icon">
-                            <img
+                            {/* <img
                               src="assets/images/icon/main-slider-sub-title-icon.png"
                               alt=""
-                            />
+                            /> */}
                           </div>
-                          <p className="main-slider__sub-title">Best shipping</p>
+                          {/* <p className="main-slider__sub-title">DELCO</p> */}
                         </div>
                         <h2 className="main-slider__title">
-                          Reliable <span>Responsive</span> <br /> Driven Logistics
+                        Achieving highest <br /> standards <span> of quality </span> <br /> reliability, trust<br />an <span>satisfaction</span>
                         </h2>
                         <p className="main-slider__text">
                           We have been operating for over a decade, providing top-notch
@@ -63,12 +63,12 @@ export default function Banner() {
                         </p>
                         <div className="main-slider__btn-and-call-box">
                           <div className="main-slider__btn-box">
-                            <Link href="/about" className="thm-btn main-slider__btn">
-                              Read more
+                            <Link href="/services" className="thm-btn main-slider__btn">
+                             Our Services
                               <span />
                             </Link>
                           </div>
-                          <div className="main-slider__call">
+                          {/* <div className="main-slider__call">
                             <div className="main-slider__call-icon">
                               <span className="icon-phone" />
                             </div>
@@ -78,7 +78,7 @@ export default function Banner() {
                                 <Link href="tel:307555-0133">(307) 555-0133</Link>
                               </h5>
                             </div>
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -100,13 +100,13 @@ export default function Banner() {
                     <div className="col-xl-12">
                       <div className="main-slider__content">
                         <div className="main-slider__sub-title-box">
-                          <div className="main-slider__sub-title-icon">
+                          {/* <div className="main-slider__sub-title-icon">
                             <img
                               src="assets/images/icon/main-slider-sub-title-icon.png"
                               alt=""
                             />
-                          </div>
-                          <p className="main-slider__sub-title">Best shipping</p>
+                          </div> */}
+                          {/* <p className="main-slider__sub-title">Best shipping</p> */}
                         </div>
                         <h2 className="main-slider__title">
                           Reliable <span>Responsive</span> <br /> Driven Logistics
@@ -123,7 +123,7 @@ export default function Banner() {
                               <span />
                             </Link>
                           </div>
-                          <div className="main-slider__call">
+                          {/* <div className="main-slider__call">
                             <div className="main-slider__call-icon">
                               <span className="icon-phone" />
                             </div>
@@ -133,7 +133,7 @@ export default function Banner() {
                                 <Link href="tel:307555-0133">(307) 555-0133</Link>
                               </h5>
                             </div>
-                          </div>
+                          </div> */}
                         </div>
                       </div>
                     </div>
@@ -141,7 +141,7 @@ export default function Banner() {
                 </div>
               </SwiperSlide>
 
-              <SwiperSlide className="swiper-slide">
+              {/* <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
                   style={{ backgroundImage: "url(assets/images/backgrounds/slider-1-3.jpg)" }}
@@ -194,9 +194,9 @@ export default function Banner() {
                     </div>
                   </div>
                 </div>
-              </SwiperSlide>
+              </SwiperSlide> */}
 
-              <SwiperSlide className="swiper-slide">
+              {/* <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
                   style={{ backgroundImage: "url(assets/images/backgrounds/slider-1-1.jpg)" }}
@@ -249,7 +249,7 @@ export default function Banner() {
                     </div>
                   </div>
                 </div>
-              </SwiperSlide>
+              </SwiperSlide> */}
             </div>
           </Swiper>
           <div className="swiper-pagination" id="main-slider-pagination" />

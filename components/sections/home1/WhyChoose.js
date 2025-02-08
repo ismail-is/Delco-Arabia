@@ -10,7 +10,7 @@ export default function WhyChoose() {
                     <div className="why-choose-one__left">
                         <div className="section-title text-left">
                         <div className="section-title__tagline-box">
-                            <span className="section-title__tagline">Why Chose us</span>
+                            <span className="section-title__tagline">Why Choose Us</span>
                         </div>
                         <h2 className="section-title__title">
                             Delivering excellence every a time Express Logistics

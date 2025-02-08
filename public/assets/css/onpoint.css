@@ -35,11 +35,11 @@
   --onpoint-gray-rgb: 120, 120, 120;
   --onpoint-white: #ffffff;
   --onpoint-white-rgb: 255, 255, 255;
-  --onpoint-base: #C11425;
+  --onpoint-base: #030C4D;
   --onpoint-base-rgb: 193, 20, 37;
   --onpoint-black: #0F1B24;
   --onpoint-black-rgb: 15, 27, 36;
-  --onpoint-primary: #FFC000;
+  --onpoint-primary: #F39F1B;
   --onpoint-primary-rgb: 255, 192, 0;
   --onpoint-extra: #F5F5F5;
   --onpoint-extra-rgb: 245, 245, 245;
@@ -865,6 +865,7 @@ a.scroll-to-target.scroll-to-top {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+
   }
 }
 

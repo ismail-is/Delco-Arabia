@@ -5,6 +5,7 @@ import { useState } from 'react'
 import CounterUp from "@/components/elements/CounterUp"
 import Layout from "@/components/layout/Layout"
 import TestimonialSlider1 from "@/components/slider/TestimonialSlider1"
+import ServicesTwo from "@/components/sections/home2/ServicesTwo";
 
 export default function Home() {
     const [isOpen, setOpen] = useState(false);
@@ -26,18 +27,20 @@ export default function Home() {
                                     <span className="section-title__tagline">About Us</span>
                                 </div>
                                 <h2 className="section-title__title">
-                                    Seamless logistics for your <br /> business needs
+                                Delco Arabia: Excellence in Industrial Trading & Contracting
                                 </h2>
                                 </div>
                                 <p className="about-one__text">
-                                Construction is an essential industry that involves building
-                                adesigning the a structures such as buildings roads, bridges
+                                Since its inception in the year 2017, DELCO ARABIA has been involved in various OIL & GAS Construction, MEP and INFRASTRUCTURAL Projects. Over the decades DELCO ARABIA have built up a strong expertise in the specialist trading and contracting field of Industrial projects.
+
                                 </p>
+                                <p className="about-one__text">Delco Arabia’s Trading Division specializes in high-quality Industrial Valves, Pipes, Fittings, Plumbing, Sanitary, and Safety Materials. We serve Oil & Gas, Marine, and Industrial projects with competitive pricing and a strong reputation. Our operations cover power plants, petrochemicals, refineries, chemicals, fertilizers, paper, cement, and sugar industries. Committed to superior quality and compliance, we ensure 100% customer satisfaction.
+</p>
                                 <div className="about-one__list-box">
                                 <div className="about-one__shape-1">
                                     <img src="assets/images/shapes/about-one-shape-1.png" alt="" />
                                 </div>
-                                <ul className="about-one__list list-unstyled">
+                                {/* <ul className="about-one__list list-unstyled">
                                     <li>
                                     <div className="about-one__icon">
                                         <span className="icon-conveyor-1" />
@@ -64,14 +67,14 @@ export default function Home() {
                                         <br /> processes
                                     </h3>
                                     </li>
-                                </ul>
+                                </ul> */}
                                 </div>
-                                <div className="about-one__btn-box">
+                                {/* <div className="about-one__btn-box">
                                 <Link href="/about" className="thm-btn about-one__btn">
                                     Read more
                                     <span />
                                 </Link>
-                                </div>
+                                </div> */}
                             </div>
                             </div>
                             <div className="col-xl-6">
@@ -93,18 +96,21 @@ export default function Home() {
                                     <div className="about-one__trust-content">
                                     <div className="about-one__trust-count count-box">
                                         <h3 className="count-text">
-                                            <CounterUp end={6} />
+                                            <CounterUp end={100} />
                                         </h3>
-                                        <span>k</span>
-                                        <span className="about-one__trust-plus">+</span>
+                                        <span></span>
+                                        <span className="about-one__trust-plus">%</span>
                                     </div>
-                                    <p className="about-one__trust-text">Trusted Customer</p>
+                                    <p className="about-one__trust-text">Customer Satisfaction</p>
                                     </div>
                                 </div>
                                 </div>
                             </div>
                             </div>
                         </div>
+
+
+                        
                         </div>
                     </section>
                     {/*About One End*/}
@@ -241,7 +247,7 @@ export default function Home() {
                     {/*Testimonial One End*/}
 
                     {/*Why Are We Start*/}
-                    <section className="why-are-we">
+                    {/* <section className="why-are-we">
                         <div className="container">
                         <div className="row">
                             <div className="col-xl-4">
@@ -314,8 +320,14 @@ export default function Home() {
                             </div>
                         </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/*Why Are We End*/}
+
+
+                    <ServicesTwo/>
+
+
+
 
                     {/*CTA One Start*/}
                     <section className="cta-one cta-two">
@@ -345,7 +357,7 @@ export default function Home() {
                                 <div className="content">
                                 <p>Need help?</p>
                                 <h3>
-                                    <a href="tel:3075550133">(307) 555-0133</a>
+                                    <a href="tel:966 01 3667 0464">+966 01 3667 0464  </a>
                                 </h3>
                                 </div>
                             </div>
