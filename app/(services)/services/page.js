@@ -569,6 +569,103 @@ export default function Home() {
 
 
 
+{/* 4 */}
+<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+                <div className="container">
+                <div className="row">
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Equipment Rental Services
+
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        We are one of the most reputed equipment hire companies in the Kingdom with a large and ever expanding fleet of heavy and light equipment. And with our extensive staff of experienced technicians, you can be assured that the equipment will remain reliable and well supported. DELCO maintains a  comprehensive inventory of heavy and light equipment such as various size of Cranes, Forklifts Dozers, Graders, Trailers, Vacuum tankers, High pressure water jetting machines, Loaders, Man lift, Light & Heavy Vehicles and Paint units, Sledge pumps, Pneumatic and Hydraulic impact tools, Pipe cutters and various miscellaneous equipment.
+
+
+                        </p>
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </section>
+{/* 4*/}
+
+
+{/* 5 */}
+<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+                <div className="container">
+                <div className="row">
+                <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Vehicle Rental Services
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        Our company offers fantastic vehicles to make your journey comfortable. If you are looking for a rental car, bus, pickup or any other vehicle, let us know. We’re here for customer satisfaction and strive to offer a wide variety of services to better meet our customers’ needs. We offer numerous models suitable for any taste or style and at a price that you can’t beat. We service a wide area across all of Saudi Arabia and offer only exceptional customer service. Our aim is to satisfy every customer and your no exception.
+
+                        </p>
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    
+                </div>
+                </div>
+            </section>
+{/* 5 */}
 
     {/*CTA One Start*/}
     <section className="cta-one">
