@@ -37,7 +37,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     </span>
                     <div className="logo-box">
                     <Link href="/" aria-label="logo image">
-                        <img src="assets/images/resources/logo-2.png" width={150} alt="" />
+                        <img src="./assets/images/allimgs/Delco Logo White.png" width={150} alt="" />
                     </Link>
                     </div>
                     {/* /.logo-box */}
@@ -110,18 +110,20 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                     <span className="fa fa-angle-right" />
                                 </div>
                             </li> */}
-                            <li><Link href="#" onClick={handleMobileMenu}>Service</Link></li>
+                            <li><Link href="/service" onClick={handleMobileMenu}>Service</Link></li>
                             <li><Link href="/contact" onClick={handleMobileMenu}>Contact</Link></li>
                         </ul>
                     </div>
                     <ul className="mobile-nav__contact list-unstyled">
                     <li>
                         <i className="fa fa-envelope" />
-                        <a href="mailto:needhelp@packageName__.com">needhelp@onpoint.com</a>
+                        <a href="mailto:info@delcoarabia.com">info@delcoarabia.com
+                        </a>
                     </li>
                     <li>
                         <i className="fa fa-phone-alt" />
-                        <a href="tel:666-888-0000">666 888 0000</a>
+                        <a href="tel:966 01 3667 0464">966 01 3667 0464
+                        </a>
                     </li>
                     </ul>
                     {/* /.mobile-nav__contact */}

@@ -20,9 +20,7 @@ export default function Footer1() {
                         <div className="footer-widget__logo">
                         <Link href="/">
                             <img
-                            src="assets/images/resources/footer-logo-1.png"
-                            alt=""
-                            />
+                            src="./assets/images/allimgs/Delco Logo White.png" alt=""  style={{height:'70px'}}/>
                         </Link>
                         </div>
                         <p className="footer-widget__about-text">
@@ -32,26 +30,28 @@ export default function Footer1() {
                         <ul className="footer-widget__about-contact list-unstyled">
                         <li>
                             <div className="icon">
-                            <span className="icon-envolop email-icon" />
+                            <span className="icon-envolop email-icon"   style={{color:'#F39F1B'}}/>
                             </div>
                             <p>
-                            <Link href="mailto:debra.holt@example.com">
-                                debra.holt@example.com,
+                            <Link href="mailto:info@delcoarabia.com">
+                            info@delcoarabia.com
+
                             </Link>
                             </p>
                         </li>
-                        <li>
+                        {/* <li>
                             <div className="icon">
                             <span className="icon-location location-icon" />
                             </div>
-                            <p>3891 Ranchview Dr. Richardson</p>
-                        </li>
+                            <p>Ibn Al-Jawazi St. Makkah Al Mukarama Road, Al-Jubail Industrial City 35514, Kingdom of Saudi Arabia</p>
+                        </li> */}
                         <li>
                             <div className="icon">
-                            <span className="icon-call phone-call" />
+                            <span className="icon-call phone-call"  style={{color:'#F39F1B'}}/>
                             </div>
                             <p>
-                            <Link href="tel:0192584341342">0192584341342</Link>
+                            <Link href="tel:966 01 3667 0464">966 01 3667 0464
+                            </Link>
                             </p>
                         </li>
                         </ul>
@@ -63,23 +63,21 @@ export default function Footer1() {
                     >
                     <div className="footer-widget__column footer-widget__company">
                         <div className="footer-widget__title-box">
-                        <h3 className="footer-widget__title">About Company</h3>
+                        <h3 className="footer-widget__title">Useful links</h3>
                         </div>
                         <ul className="footer-widget__company-list list-unstyled">
                         <li>
-                            <Link href="/about">About Us</Link>
+                            <Link href="/">Home</Link>
                         </li>
                         <li>
-                            <Link href="/faq">FAQ</Link>
+                            <Link href="/about">About</Link>
                         </li>
-                        <li>
-                            <Link href="/testimonials">Testimonial</Link>
-                        </li>
+                        
                         <li>
                             <Link href="/services">Service</Link>
                         </li>
                         <li>
-                            <Link href="/blog">Blog And News</Link>
+                            <Link href="/contact">Contact</Link>
                         </li>
                         </ul>
                     </div>
@@ -94,35 +92,49 @@ export default function Footer1() {
                         </div>
                         <ul className="footer-widget__services-list list-unstyled">
                         <li>
-                            <Link href="/express-freight-solutions">
-                            <span className="icon-angle-left" />
-                            Express Freight Solutions
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Manpower Supply General
                             </Link>
                         </li>
                         <li>
-                            <Link href="/speedy-dispatch">
-                            <span className="icon-angle-left" />
-                            Rapid Delivery Services
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Specialized Crew Supply
+
                             </Link>
                         </li>
                         <li>
-                            <Link href="/speedy-dispatch">
-                            <span className="icon-angle-left" />
-                            Speedy Haulage
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Specialized Equipment Supply
+
                             </Link>
                         </li>
                         <li>
-                            <Link href="/swift-supply-chain">
-                            <span className="icon-angle-left" />
-                            Reliable Transporters
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Equipment Rental Services
+
                             </Link>
                         </li>
                         <li>
-                            <Link href="/swift-supply-chain">
-                            <span className="icon-angle-left" />
-                            Swift Ship Solutions
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Vehicle Rental Services
+
                             </Link>
                         </li>
+                        <li>
+                            <Link href="/services">
+                            <span className="icon-angle-left"   style={{color:'#F39F1B'}}/>
+                            Specialized In Oil & Gas, Marine, Industrial Material And Mechanical Fabrication Works
+                            </Link>
+                        </li>
+                   
+                      
+                       
+                      
                         </ul>
                     </div>
                     </div>
@@ -167,20 +179,25 @@ export default function Footer1() {
             <div className="container">
                 <div className="site-footer__bottom-inner">
                 <p className="site-footer__bottom-text">
-                    © Yoursitename 2024 | All Rights Reserved
+                    © Delco Arabia 2025 |Site created by
+                    <a href="https://mscreation.tech/" style={{color:"#F39F1B"}}> Ms Creation</a>
                 </p>
-                <ul className="list-unstyled site-footer__bottom-menu">
-                    <li>
-                    <Link href="/about">Trams &amp; Condition</Link>
-                    </li>
-                    <li>
-                    <Link href="/about">Privacy Policy</Link>
-                    </li>
-                    <li>
-                    <Link href="/contact">Contact Us</Link>
-                    </li>
-                </ul>
+                <div className="footer-widget-two__social">
+                            <Link href="#">
+                            <span className="icon-instagram" />
+                            </Link>
+                            <Link href="#">
+                            <span className="icon-facebook-f" />
+                            </Link>
+                            <Link href="#">
+                            <span className="icon-Vector" />
+                            </Link>
+                            <Link href="#">
+                            <span className="icon-linkedin-in" />
+                            </Link>
+                        </div>
                 </div>
+               
             </div>
             </div>
         </footer>

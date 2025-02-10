@@ -9,7 +9,7 @@ export default function Footer2() {
                 <img src="assets/images/shapes/site-footer-two-shape-1.png" alt="" />
                 </div>
                 <div className="container">
-                <div className="site-footer-two__top">
+                {/* <div className="site-footer-two__top">
                     <div className="row">
                     <div className="col-xl-4">
                         <div className="site-footer-two__top-left">
@@ -44,7 +44,7 @@ export default function Footer2() {
                         </div>
                     </div>
                     </div>
-                </div>
+                </div> */}
                 <div className="site-footer-two__middle">
                     <div className="row">
                     <div
@@ -54,7 +54,7 @@ export default function Footer2() {
                         <div className="footer-widget-two__column footer-widget-two__about">
                         <div className="footer-widget-two__logo">
                             <Link href="/">
-                            <img src="assets/images/resources/footer-logo-2.png" alt="" />
+                            <img src="./assets/images/allimgs/Delco%20Logo.png" alt=""  style={{height:'80px'}}/>
                             </Link>
                         </div>
                         <p className="footer-widget-two__text">

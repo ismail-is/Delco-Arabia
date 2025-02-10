@@ -405,7 +405,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/allimgs/Delco\ Logo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
@@ -4183,7 +4183,7 @@ select.selectmenu.wide {
   right: 0;
   bottom: 0;
   border-radius: 20px;
-  background: linear-gradient(89.46deg, #C11425 49.9%, rgba(91, 9, 17, 0) 99.53%);
+  background: linear-gradient(89.46deg, #F39F1B 49.9%, rgba(91, 9, 17, 0) 99.53%);
   z-index: 1;
 }
 
@@ -4471,7 +4471,7 @@ select.selectmenu.wide {
 }
 
 .footer-widget__company-list li>a:hover {
-  color: var(--onpoint-base);
+  color: #F39F1B;
 }
 
 .footer-widget__services {
@@ -4503,7 +4503,7 @@ select.selectmenu.wide {
 }
 
 .footer-widget__services-list li>a:hover {
-  color: var(--onpoint-base);
+  color: #F39F1B;
 }
 
 .footer-widget__services-list li>a>span {
@@ -5639,13 +5639,13 @@ select.selectmenu.wide {
   width: 33px;
   height: 33px;
   font-size: 14px;
-  color: var(--onpoint-black);
+  color:white;
   border: 1px solid var(--onpoint-bdr-color);
   border-radius: 50%;
 }
 
 .footer-widget-two__social a:hover {
-  color: var(--onpoint-white);
+  color: #F39F1B;
   background-color: var(--onpoint-base);
   border: 1px solid var(--onpoint-base);
 }

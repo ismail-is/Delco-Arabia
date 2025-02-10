@@ -10,7 +10,7 @@ import Team from "@/components/sections/home1/Team"
 import Start from "@/components/sections/home1/Start"
 import Faq from "@/components/sections/home1/Faq"
 import Testimonial from "@/components/sections/home1/Testimonial"
-import Blog from "@/components/sections/home1/Blog"
+import Blog from "@/components/sections/home2/Blog"
 import Cta from "@/components/sections/home1/Cta"
 export default function Home() {
 
@@ -20,7 +20,8 @@ export default function Home() {
                 <Banner />
                 {/* <ServicesOne /> */}
                 <WhyChoose />
-                <Project />
+                {/* <Project /> */}
+                <Blog/>
                 {/* <Brand /> */}
                 {/* <About /> */}
                 {/* <Counter /> */}
@@ -29,6 +30,7 @@ export default function Home() {
                 {/* <Faq /> */}
                 {/* <Testimonial /> */}
                 {/* <Blog /> */}
+
                 <Cta/>
             </Layout>
         </>

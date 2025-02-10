@@ -7,266 +7,612 @@ export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Services">
-                <div>
-                    {/*Services Page Start*/}
-                    <section className="services-page">
-                        <div className="container">
-                        <div className="row">
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-postbox" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/express-freight-solutions">
-                                    Fast and reliable logistics the solutions
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/express-freight-solutions"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-customer-service" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/quick-move-logistics">
-                                    Bridges Construction is an essen industry
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/quick-move-logistics"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-container" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/speedy-dispatch">
-                                    That involves building adesig the a structures
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/speedy-dispatch"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-shipping" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/swift-supply-chain">
-                                    Logistics expertise for your competitive advantage
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/swift-supply-chain"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-crane" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/on-point-distribution">
-                                    Delivering success through the logistics
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/on-point-distribution"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-conveyor-1" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/express-freight-solutions">
-                                    Simplifying your logistics the challenges
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/express-freight-solutions"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-postbox" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/quick-move-logistics">
-                                    Efficiency at its best, with our logistics services
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/quick-move-logistics"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-clock" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/speedy-dispatch">
-                                    Seamless logistics for your business needs
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/speedy-dispatch"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                            {/*Services One Single Start*/}
-                            <div className="col-xl-4 col-lg-4">
-                            <div className="services-one__single">
-                                <div className="services-one__icon">
-                                <span className="icon-fragile" />
-                                </div>
-                                <h3 className="services-one__title">
-                                <Link href="/swift-supply-chain">
-                                    Your supply chain partner for the success
-                                </Link>
-                                </h3>
-                                <div className="services-one__btn-box">
-                                <Link
-                                    href="/swift-supply-chain"
-                                    className="thm-btn services-one__btn"
-                                >
-                                    Read more
-                                    <span />
-                                </Link>
-                                </div>
-                            </div>
-                            </div>
-                            {/*Services One Single End*/}
-                        </div>
-                        </div>
-                    </section>
-                    {/*Services Page End*/}
+              <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="services">
 
+<div>
+    {/*Project Details Start*/}
+    <section className="project-details">
+        <div className="container">
+        <div className="row">
+            <div className="col-xl-2">
+          
+            </div>
+            <div className="col-xl-12">
+            <div className="project-details__right">
+            <h3 className="project-details__title-1">
+         Manpower Supply General
+
+                </h3>
+                <div className="project-details__img">
+                <img
+                    src="assets/images/project/project-details-img-1.jpg"
+                    alt=""
+                />
+                </div>
+                <h5 className="project-details__title-1">
+                Reliable Manpower, Guaranteed Performance!
+                </h5>
+              
+               
+
+                <div className="project-details__img-box">
+                <div className="row">
+                    <div className="col-xl-4">
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Mechanical Engineers
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Civil Engineers
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Piping Engineers
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>QA/QC Engineers/Inspectors
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Instrument Engineers
+                    </p>
+                </li>
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Site Supervisors
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Painting Supervisors
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Planning and Costing Engineer
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Rotating Equipment Engineers
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Project Equipment Engineers
+
+                    </p>
+                </li>
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Technical Secretaries
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Executive Secretaries
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Accountants
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Document Controllers
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Pipe Fitter
+
+
+                    </p>
+                </li>
+                </ul>
+                    </div>
                     
-                    {/*CTA One Start*/}
-                    <section className="cta-one cta-two">
-                        <div className="container">
-                        <div className="cta-one__inner">
-                            <div
-                            className="cta-one__bg-img"
-                            style={{
-                                backgroundImage: "url(assets/images/resources/cta-one-bg-img.jpg)"
-                            }}
-                            />
-                            <div className="cta-one__content-box">
-                            <div className="cta-one__icon">
-                                <span className="icon-call" />
-                                <div className="cta-one__shape-1">
-                                <img src="assets/images/shapes/cta-one-shape-1.png" alt="" />
-                                </div>
-                            </div>
-                            <h3 className="cta-one__title">
-                                Need any help?
-                                <br /> contact us!
-                            </h3>
-                            <div className="cta-one__contact-box">
-                                <div className="icon">
-                                <span className="icon-phone" />
-                                </div>
-                                <div className="content">
-                                <p>Need help?</p>
-                                <h3>
-                                    <Link href="tel:3075550133">(307) 555-0133</Link>
-                                </h3>
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </section>
-                    {/*CTA One End*/}
+                   
+                </div>
+                </div>
+                <div className="project-details__img-box">
+                <div className="row">
+                <div className="col-xl-4" >
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Steel Erector
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Scaffolder
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Hydro-jetter
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>System Administrators
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>IT Engineers
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Skilled Labors
+
+
+
+
+
+
+                    </p>
+                </li>
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Computer Operator
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Project Controllers
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Schedulers
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Safety Engineer/Supervisors/Officers
+
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Painting/Coating Inspectors
+
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Riggers
+
+
+
+
+
+
+                    </p>
+                </li>
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Fabricators (Piping & Structural)
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Operator's (Crane, Forklift, etc.)
+
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Semi-skilled Labors
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Mechanical Helpers
+
+
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Welding Inspectors
+
+
+
+
+
+                    </p>
+                </li>
+              
+             
+                </ul>
+                    </div>
+                </div>
                 </div>
 
 
-            </Layout>
+
+
+
+                <div className="project-details__img-box">
+                <div className="row">
+                    <div className="col-xl-6">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                    <div className="col-xl-6">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                </div>
+                </div>
+              
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    {/*Project Details End*/}
+
+
+{/* 2 */}
+<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+                <div className="container">
+                <div className="row">
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Specialized Crew Supply
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        DELCO Have specialized Crew for Execute the Mega Projects for Mechanical , Coating , E & I and Civil Crews.
+
+                        </p>
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </section>
+{/* 2 */}
+   
+{/* 3 */}
+
+<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+                <div className="container">
+                <div className="row">
+                <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Specialized Equipment Supply
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        DELCO Capable to Modify and Supply Specialized Equipment for Long Term Project. Our extensive staff of experienced technicians, you can be assured that the equipment will remain reliable and well supported.
+
+
+                        </p>
+
+                        <div className="project-details__img-box">
+                <div className="row">
+                <h4>Specialized Equipment List As follows:
+                </h4>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Fire Truck
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Ambulance
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Mobile Clinic
+
+                    </p>
+                </li>
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Mobile Toilet
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Mist Fan
+
+
+                    </p>
+                </li>
+             
+               
+                </ul>
+                    </div>
+                    
+             
+                    
+                   
+                </div>
+                </div>
+                    </div>
+                    </div>
+                    
+                </div>
+                </div>
+            </section>
+{/* 3 */}
+
+
+
+
+    {/*CTA One Start*/}
+    <section className="cta-one">
+        <div className="container">
+        <div className="cta-one__inner">
+            <div
+            className="cta-one__bg-img"
+            style={{
+                backgroundImage: "url(assets/images/resources/cta-one-bg-img.jpg)"
+            }}
+            />
+            <div className="cta-one__content-box">
+            <div className="cta-one__icon">
+                <span className="icon-call" />
+                <div className="cta-one__shape-1">
+                <img src="assets/images/shapes/cta-one-shape-1.png" alt="" />
+                </div>
+            </div>
+            <h3 className="cta-one__title">
+                Need any help?
+                <br /> contact us!
+            </h3>
+            <div className="cta-one__contact-box">
+                <div className="icon">
+                <span className="icon-phone" />
+                </div>
+                <div className="content">
+                <p>Need help?</p>
+                <h3>
+                    <Link href="tel:3075550133">(307) 555-0133</Link>
+                </h3>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </section>
+    {/*CTA One End*/}
+
+    
+</div>
+
+
+</Layout>
         </>
     )
 }

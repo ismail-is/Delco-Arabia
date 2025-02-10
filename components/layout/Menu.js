@@ -6,7 +6,7 @@ export default function Menu() {
 
     return (
         <div  >
-        <ul className="main-menu__list"  >
+        <ul className="main-menu__list" style={{marginLeft:'140px'}} >
             {/* <li className="dropdown">
                 <Link href="/">Home </Link>
                 <ul>
@@ -36,7 +36,7 @@ export default function Menu() {
                 <Link href="/about">About</Link>
             </li>
             <li>
-                <Link href="#">services</Link>
+                <Link href="/services">services</Link>
             </li>
             {/* <li className="dropdown">
                 <Link href="#">Pages</Link>

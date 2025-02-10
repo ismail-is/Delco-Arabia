@@ -56,7 +56,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 <div className="main-menu__left">
                   <div className="main-menu__logo">
                     <Link href="/">
-                      <img src="assets/images/resources/logo-1.png" alt="" />
+                      <img src="./assets/images/allimgs/Delco Logo.png" alt=""  style={{height:'70px'}}/>
                     </Link>
                   </div>
                   <div className="main-menu__main-menu-box">
