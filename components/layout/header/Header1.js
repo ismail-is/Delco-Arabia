@@ -74,11 +74,11 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                       />
                     </div> */}
                     <div className="main-menu__nav-sidebar-icon" onClick={handleSidebar}>
-                      <div className="navSidebar-button">
+                      {/* <div className="navSidebar-button">
                         <span className="icon-dots-menu-one" />
                         <span className="icon-dots-menu-two" />
                         <span className="icon-dots-menu-three" />
-                      </div>
+                      </div> */}
                     </div>
                     <div className="main-menu__btn-box">
                       <Link href="/contact" className="thm-btn main-menu__btn">

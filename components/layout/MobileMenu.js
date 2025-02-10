@@ -110,7 +110,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                                     <span className="fa fa-angle-right" />
                                 </div>
                             </li> */}
-                            <li><Link href="/service" onClick={handleMobileMenu}>Service</Link></li>
+                            <li><Link href="/services" onClick={handleMobileMenu}>Service</Link></li>
                             <li><Link href="/contact" onClick={handleMobileMenu}>Contact</Link></li>
                         </ul>
                     </div>
