@@ -281,7 +281,7 @@ export default function Blog() {
                             <p>
                             06
                             <br />
-                            <span>Apr</span>
+                            {/* <span>Apr</span> */}
                             </p>
                         </div>
                         </div>
