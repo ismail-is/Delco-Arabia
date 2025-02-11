@@ -30,7 +30,7 @@ export default function Home() {
                 {/* <Faq /> */}
                 {/* <Testimonial /> */}
                 {/* <Blog /> */}
-
+<Brand />
                 <Cta/>
             </Layout>
         </>

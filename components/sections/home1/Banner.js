@@ -34,7 +34,7 @@ export default function Banner() {
               <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(assets/images/backgrounds/slider-1-1.jpg)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/homepage/banner1.webp)" }}
                 />
                 <div className="main-slider__shape-1" />
                 <div className="main-slider__shape-2" />
@@ -56,11 +56,11 @@ export default function Banner() {
                         <h2 className="main-slider__title">
                         Achieving highest <br /> standards <span> of quality </span> <br /> reliability, trust<br />an <span>satisfaction</span>
                         </h2>
-                        <p className="main-slider__text">
+                        {/* <p className="main-slider__text">
                           We have been operating for over a decade, providing top-notch
                           services to <br /> our clients and building a strong track record in
                           the industry.
-                        </p>
+                        </p> */}
                         <div className="main-slider__btn-and-call-box">
                           <div className="main-slider__btn-box">
                             <Link href="/services" className="thm-btn main-slider__btn">
@@ -89,7 +89,7 @@ export default function Banner() {
               <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(assets/images/backgrounds/slider-1-2.jpg)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/homepage/banner2.webp)" }}
                 />
                 <div className="main-slider__shape-1" />
                 <div className="main-slider__shape-2" />
@@ -109,13 +109,13 @@ export default function Banner() {
                           {/* <p className="main-slider__sub-title">Best shipping</p> */}
                         </div>
                         <h2 className="main-slider__title">
-                          Reliable <span>Responsive</span> <br /> Driven Logistics
+                        Our commitment <span>to excellence,</span> <br />  <span>reliability, </span> and customer <br/>satisfaction sets us apart <br/>in the <span>competitive market</span>  
                         </h2>
-                        <p className="main-slider__text">
+                        {/* <p className="main-slider__text">
                           We have been operating for over a decade, providing top-notch
                           services to <br /> our clients and building a strong track record in
                           the industry.
-                        </p>
+                        </p> */}
                         <div className="main-slider__btn-and-call-box">
                           <div className="main-slider__btn-box">
                             <Link href="/about" className="thm-btn main-slider__btn">

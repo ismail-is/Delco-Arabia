@@ -4,13 +4,13 @@ export default function Brand() {
     return (
         <>
   {/*Brand One Start*/}
-  <section className="brand-one">
+  <section className="brand-one" style={{marginBottom:'140px',marginTop:'-30px'}}>
     <div className="container">
-      <p className="brand-one__text count-box">
+      {/* <p className="brand-one__text count-box">
         Join the{" "}
         <CounterUp end={150} />
         <span>+</span> companies trusting maxline company
-      </p>
+      </p> */}
       <BrandSlider1/>
     </div>
   </section>

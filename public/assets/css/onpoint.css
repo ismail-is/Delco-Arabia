@@ -2786,11 +2786,11 @@ a.scroll-to-target.scroll-to-top {
   -webkit-transition: 500ms;
   transition: 500ms;
   max-width: 100%;
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 .brand-one .swiper-slide img:hover {
-  opacity: .50;
+  opacity: 1;
 }
 
 /*--------------------------------------------------------------

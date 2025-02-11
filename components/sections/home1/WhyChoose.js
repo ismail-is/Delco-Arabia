@@ -41,7 +41,7 @@ export default function WhyChoose() {
                             src="assets/images/resources/why-choose-one-img-1.jpg"
                             alt=""
                         />
-                        <div className="why-choose-one__delivery-box">
+                        {/* <div className="why-choose-one__delivery-box">
                             <div className="icon">
                             <span className="icon-airplane" />
                             </div>
@@ -49,7 +49,7 @@ export default function WhyChoose() {
                             2 dAYS
                             <br /> DELIVARY
                             </p>
-                        </div>
+                        </div> */}
                         </div>
                     </div>
                     </div>
