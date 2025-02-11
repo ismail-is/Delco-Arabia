@@ -6,7 +6,7 @@ export default function Footer1() {
         {/*Site Footer Start*/}
         <footer className="site-footer">
             <div className="site-footer__shape-1 float-bob-y">
-            <img src="assets/images/shapes/footer-shape-1.png" alt="" />
+            {/* <img src="assets/images/shapes/footer-shape-1.png" alt="" /> */}
             </div>
             <div className="site-footer__top">
             <div className="container">

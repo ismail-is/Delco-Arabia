@@ -38,7 +38,7 @@ export default function WhyChoose() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/homepage/why.jpg"
                             alt=""
                         />
                         {/* <div className="why-choose-one__delivery-box">

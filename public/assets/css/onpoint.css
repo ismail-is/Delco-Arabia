@@ -1913,7 +1913,7 @@ a.scroll-to-target.scroll-to-top {
   position: absolute;
   top: -270px;
   right: -135px;
-  background: #C11425;
+  background: #030C4D;
   width: 411.26px;
   height: 649.19px;
   opacity: 0.8;
@@ -1928,7 +1928,7 @@ a.scroll-to-target.scroll-to-top {
   left: 102px;
   width: 323.43px;
   height: 649.19px;
-  background: #C11425;
+  background: #030C4D;
   opacity: 0.8;
   filter: blur(145px);
   transform: rotate(160.05deg);
@@ -2786,11 +2786,11 @@ a.scroll-to-target.scroll-to-top {
   -webkit-transition: 500ms;
   transition: 500ms;
   max-width: 100%;
-  /* opacity: 1; */
+  /* opacity: 0.5; */
 }
 
 .brand-one .swiper-slide img:hover {
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 /*--------------------------------------------------------------
