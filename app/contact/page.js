@@ -75,7 +75,7 @@ export default function Home() {
                                 <div className="section-title__tagline-box">
                                     <span className="section-title__tagline">Contact</span>
                                 </div>
-                                <h2 className="section-title__title">Get Touch Here</h2>
+                                <h2 className="section-title__title">Get In Touch Here</h2>
                                 </div>
                                 <form
                                 className="contact-form-validated contact-two__form"
@@ -139,7 +139,7 @@ export default function Home() {
                             <div className="col-xl-5">
                             <div className="contact-two__right">
                                 <div className="contact-two__img">
-                                <img src="assets/images/resources/contact-two-img-1.jpg" alt="" />
+                                <img src="./assets/images/allimgs/contactpage/contact .webp" alt="" />
                                 </div>
                             </div>
                             </div>
@@ -165,7 +165,7 @@ export default function Home() {
                             <div
                             className="cta-one__bg-img"
                             style={{
-                                backgroundImage: "url(assets/images/resources/cta-one-bg-img.jpg)"
+                                backgroundImage: "url(./assets/images/allimgs/contactpage/footer.webp)"
                             }}
                             />
                             <div className="cta-one__content-box">
@@ -186,7 +186,7 @@ export default function Home() {
                                 <div className="content">
                                 <p>Need help?</p>
                                 <h3>
-                                    <a href="tel:3075550133">(307) 555-0133</a>
+                                    <a href="tel:966 01 3667 0464">+966 01 3667 0464</a>
                                 </h3>
                                 </div>
                             </div>

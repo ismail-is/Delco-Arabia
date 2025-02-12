@@ -25,7 +25,7 @@ export default function Home() {
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/1-1.webp"
                     alt=""
                 />
                 </div>
@@ -384,7 +384,7 @@ export default function Home() {
                     <div className="col-xl-6">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/1-2.webp"
                         alt=""
                         />
                     </div>
@@ -392,7 +392,7 @@ export default function Home() {
                     <div className="col-xl-6">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/1-2.webp"
                         alt=""
                         />
                     </div>
@@ -443,7 +443,7 @@ export default function Home() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/2.webp"
                             alt=""
                         />
                        
@@ -468,7 +468,7 @@ export default function Home() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/3.webp"
                             alt=""
                         />
                        
@@ -606,7 +606,7 @@ export default function Home() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/4.webp"
                             alt=""
                         />
                        
@@ -631,7 +631,7 @@ export default function Home() {
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/5.webp"
                             alt=""
                         />
                        
@@ -678,10 +678,10 @@ export default function Home() {
                 <div className="row">
                 <div className="col-xl-12">
             <div className="project-details__right">
-            <h3 className="project-details__title-1">
-            MECHANICAL VALVES  AND FITTINGS
-
+            <h3 className="project-details__title-1" style={{color:'#030C4D',textAlign:'center'}}>
+            SPECIALIZED IN OIL & GAS, MARINE, INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS
                 </h3>
+           
                 <div className="project-details__img">
                 <img
                     src="assets/images/project/project-details-img-1.jpg"
@@ -691,6 +691,10 @@ export default function Home() {
                 {/* <h6 className="blog-details__title-2">
                 Reliable Manpower, Guaranteed Performance!
                 </h6> */}
+                 <h3 className="project-details__title-1">
+            MECHANICAL VALVES  AND FITTINGS
+
+                </h3>
                 <p className="why-choose-one__text" style={{marginTop:'20px'}}> All kind of mechanical valves, CS and SS steel pipes and fittings, butt weld fittings, flanges and
 branches
 </p>
@@ -2262,7 +2266,7 @@ Sockets
             <div
             className="cta-one__bg-img"
             style={{
-                backgroundImage: "url(assets/images/resources/cta-one-bg-img.jpg)"
+                backgroundImage: "url(./assets/images/allimgs/contactpage/footer.webp)"
             }}
             />
             <div className="cta-one__content-box">
@@ -2283,7 +2287,7 @@ Sockets
                 <div className="content">
                 <p>Need help?</p>
                 <h3>
-                    <Link href="tel:3075550133">(307) 555-0133</Link>
+                    <Link href="tel:966 01 3667 0464">+966 01 3667 0464</Link>
                 </h3>
                 </div>
             </div>

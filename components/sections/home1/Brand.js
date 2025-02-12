@@ -6,11 +6,12 @@ export default function Brand() {
   {/*Brand One Start*/}
   <section className="brand-one" style={{marginBottom:'140px',marginTop:'-30px'}}>
     <div className="container">
-      {/* <p className="brand-one__text count-box">
-        Join the{" "}
-        <CounterUp end={150} />
-        <span>+</span> companies trusting maxline company
-      </p> */}
+      {/* <h2 className="brand-one__text count-box">
+      Our Clients {" "}
+        <CounterUp end={40} />
+        <span>+</span> 
+      </h2> */}
+      <h2 class="section-title__title" style={{textAlign:'center',margin:'20px'}}>Our Clients</h2>
       <BrandSlider1/>
     </div>
   </section>
