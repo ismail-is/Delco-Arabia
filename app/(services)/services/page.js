@@ -1033,7 +1033,7 @@ Alloy Steel: ASTM A 182 F1/F5/F9/F11/F22/F91 etc.
                         </p>
                         <p className="why-choose-one__text">
                         <span style={{color:'#030C4D'}}>Others:</span>
-                        : Monel, Nickel, lnconel, Hastalloy, Copper, Brass, Bronze, Titanium, Tantalum,
+                        Monel, Nickel, lnconel, Hastalloy, Copper, Brass, Bronze, Titanium, Tantalum,
 Bismuth, Aluminium, High Speed Steel Zinc, Lead etc.
 Types: Elbow, Tee, Union, Cross, Coupling, Cap, Bushing, Plug, Swage, Nipple,
 Welding Boss, Hexagon Nipple, Barrel Nipple, Welding Nipple, Parraler Nipple,
