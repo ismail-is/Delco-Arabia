@@ -84,10 +84,10 @@ export default function Home() {
                             >
                                 <div className="about-one__img-box">
                                 <div className="about-one__img-1">
-                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="" />
+                                    <img src="./assets/images/allimgs/about page/About1.webp" alt="" />
                                 </div>
                                 <div className="about-one__img-2">
-                                    <img src="assets/images/resources/about-one-img-2.jpg" alt="" />
+                                    <img src="./assets/images/allimgs/about page/About2.webp" alt="" />
                                 </div>
                                 <div className="about-one__trusted-box">
                                     <div className="about-one__trust-icon">
