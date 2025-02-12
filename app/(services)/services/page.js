@@ -392,7 +392,7 @@ export default function Home() {
                     <div className="col-xl-6">
                     <div className="project-details__img-box-img">
                         <img
-                        src="./assets/images/allimgs/servicepage/1-2.webp"
+                        src="./assets/images/allimgs/servicepage/1-3.webp"
                         alt=""
                         />
                     </div>
