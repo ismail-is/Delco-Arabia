@@ -684,7 +684,7 @@ export default function Home() {
            
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-1.webp"
                     alt=""
                 />
                 </div>
@@ -821,7 +821,7 @@ Industry Standards: ASTM | ANSI | API 600 | API 603 | API 598 | ASME B16.34 | B1
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-2.webp"
                     alt=""
                 />
                 </div>
@@ -954,7 +954,7 @@ IBR/NIBR,
 
 {/* pdf page 4 */}
 
-<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'50px'}}>
+<section className="why-choose-one" style={{marginBottom:'40px',marginTop:'50px'}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6">
@@ -997,7 +997,7 @@ Cap, Collar, Cross, Insert etc.
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-3.webp"
                             alt=""
                         />
                        
@@ -1011,7 +1011,7 @@ Cap, Collar, Cross, Insert etc.
 
 
 
-            <section className="why-choose-one" style={{marginBottom:'240px',marginTop:'50px'}}>
+            <section className="why-choose-one" style={{marginBottom:'20px',marginTop:'20px'}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6">
@@ -1058,7 +1058,7 @@ Sockolet, Threadolet, Ni pol et, Letrolet etc<br/>
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-4.webp"
                             alt=""
                         />
                        
@@ -1079,7 +1079,7 @@ Sockolet, Threadolet, Ni pol et, Letrolet etc<br/>
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-5.webp"
                     alt=""
                 />
                 </div>
