@@ -665,6 +665,7 @@ export default function Home() {
                 </div>
                 </div>
             </section>
+            
 {/* 5 */}
 
 
@@ -1064,6 +1065,885 @@ Sockolet, Threadolet, Ni pol et, Letrolet etc<br/>
                 </div>
             </section>
 {/* pdf page 4 */}
+
+{/* pdf page 5 */}
+<div className="col-xl-12">
+            <div className="project-details__right">
+            <h3 className="project-details__title-1">
+           Plates
+
+                </h3>
+                <div className="project-details__img">
+                <img
+                    src="assets/images/project/project-details-img-1.jpg"
+                    alt=""
+                />
+                </div>
+                {/* <h6 className="blog-details__title-2">
+                Reliable Manpower, Guaranteed Performance!
+                </h6> */}
+                
+               
+                
+                <p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Carbon Steel :</span>
+                : IS 2062 Gr NB, ASTM, A36, SS400, IS 2062 CuWc, IS -
+2062 E 250 A (Fe 41 Ow A), E 250 B (Fe 41 OW B), E 300 (Fe 440), E
+350(Fe 490), E 41 O(Fe 540), E 450, S355JR, S275JR.
+Boiler Quality : ASTM A 515 Grade 55, 60, 65, 70 ASTM A515 Grade 60,
+65, 70
+</p>
+<p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Alloy Steel :</span>ASTM / ASME N SA 387 Gr. 2,5,9, 11, 12,22,91-CL. 1/2/3</p>   
+<p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Forged Plates :</span> F2, F5, F9, F11, F12, F22, F91</p>   
+<p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Stainless Steel :</span>ASTM A240 Grade 201, 202, 301, 301 LN, 304, 304LN,
+304H, 309, 309, 309S, 31 OS, 31 OL, 31 OH, 316, 316L, 316LN, 316H, 316Ti,
+321, 321H, 347, 347H, 317L, 317LN, 409, 409M, 409S, 410, 410S, 420, 430,
+431, 309, 309S, 309H, 310, UNS S31000,310S,UNSS31008,310H,UNS
+S31009,310S- Co Rolled, Hot Rolled. Carten NB, Hadox, Abrex,
+Abrasion / Wear Resistant & High Manganese Steel Plates.</p>   
+<p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Aluminum Alloys & Extrusion :</span> AA 2014, 2017, 2024, 3003, 5052,
+5086, 5083, 6061, 6061 T6, 6063, 6063 T6, 6066, 6101, 6351, 6082, 7010,
+7018, 7075, 55000, 54300
+EN Series, Titanium, lnconel, Monel, lncoloy, Hastelloy, Nickel Alloy,
+Duplex & Super Duplex, BRASS, Gunmetal, Phosphor Bronze</p> 
+
+
+<div className="project-details__img-box">
+                <div className="row">
+                
+                    <div className="col-xl-6">
+                    <h3 className="project-details__title-1">
+                Round and Flat Bar 
+ 
+
+                </h3>
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        alt=""
+                        />
+                          <h3 style={{textAlign:'center',margin:'10px'}}>Stainless Steel and Carbon Steel Round Bar<br/>Stainless Steel and Carbon Steel Flat Bar</h3>
+                    </div>
+                    </div>
+                    <div className="col-xl-6">
+                    <h3 className="project-details__title-1">
+                    Gratings
+ 
+
+                </h3>
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        alt=""
+                        />
+                          <h3 style={{textAlign:'center',margin:'10px'}}>Galvanized Gratings<br/>FRP Gratings</h3>
+                    </div>
+                    
+                    </div>
+                  
+                    <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+                <div className="container">
+                <div className="row">
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Fastener, Nuts and Bolts
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        Stud Bolt | Anchor Bolt| Collar Bolts | Bonnet Bolts | CS washer | SS Washer
+All varieties of fasteners, nuts, bolts and solutions
+
+                        </p>
+                        <p className="why-choose-one__text">
+                        Stainless & Duplex Steel | Carbon & Alloy Steel | Nickel and Copper Alloy |
+                        Hastelloy | Inconel | Incoloy | Monel | Titanium
+
+                        </p>
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+            <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+                <div className="container">
+                <div className="row">
+                <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Plastic Valves And Fittings
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        Wide range of Plastic PVC / CPVC Pipe Fittings and Valves
+Valves: Ball Valves | 3-way Ball Valves | Lab Valves | Industrial Swing Check
+Valves | Utility Swing Check Valves | Ball Check Valves | Diaphragm Valves |
+Gate Valves | Globe Valves | Needle Valves | Butterfly Valves |High Purity
+Butterfly Valves | Actuated Valves
+                        </p>
+                        <p className="why-choose-one__text">
+                        Fittings Types: PVC Sch.40 & SCh.80 | CPVC Sch.80 | CPVC Copper Tube Size
+| PVC & CPVC Special Reinforced (SR) Fittings & Adapters | PVC & CPVC
+Clamp On Saddles | PVC & CPVC Tank Adapters | PVC Insert Fittings | CPVC
+Fire Sprinkler Fittings
+                        </p>
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                  
+                </div>
+                </div>
+            </section>
+                </div>
+</div>
+              
+            </div>
+            </div>
+{/* pdf page 5 */}
+
+{/* pdf page 6 */}
+<div className="col-xl-12">
+            <div className="project-details__right">
+            <h3 className="project-details__title-1">
+            Instrumentation and Fittings
+
+                </h3>
+                <div className="project-details__img">
+                <img
+                    src="assets/images/project/project-details-img-1.jpg"
+                    alt=""
+                />
+                </div>
+                {/* <h6 className="blog-details__title-2">
+                Reliable Manpower, Guaranteed Performance!
+                </h6> */}
+                
+               
+                
+                <p className="why-choose-one__text" style={{marginTop:'20px'}}>Full range of instrumentation products, hardware and fittings </p>
+                <p className="why-choose-one__text" style={{marginTop:'20px',fontWeight:'bold'}}>Tube Fitting Double Ferrules | Weld Fittings |
+Pipe Fittings | Instrumentation Valves |
+Instrumentation Hardware
+ </p>
+
+ <div className="project-details__img-box">
+                <div className="row">
+                {/* <h4>Specialized Equipment List As follows:
+                </h4> */}
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Union Tee
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Male Connector NPT
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Reducing Union
+
+                    </p>
+                </li>
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Bulk-Head Union
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Male Elbow NPT
+
+
+                    </p>
+                </li>
+             
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Pressure Temperature Gauges
+
+
+                    </p>
+                </li>
+             
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Back Ferrule
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Front Ferrule
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Copper Tubes and Fittings
+
+                    </p>
+                </li>
+               
+               
+                </ul>
+                    </div>
+                    
+             
+                    
+                   
+                </div>
+                </div>
+
+
+<div className="project-details__img-box">
+                <div className="row">
+                
+                    <div className="col-xl-6">
+                    <h3 className="project-details__title-1">
+                    Welding Solutions 
+ 
+
+                </h3>
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        alt=""
+                        />
+                           <div className="project-details__img-box">
+                <div className="row">
+              
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Welding Discs
+
+                    </p>
+                </li>
+                
+               
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Welding Rods 
+
+
+                    </p>
+                </li>
+               
+             
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Welding Consumables 
+
+
+                    </p>
+                </li>
+              
+             
+               
+                </ul>
+                    </div>
+                    
+             
+                    
+                   
+                </div>
+                </div>
+                    </div>
+                    </div>
+                    <div className="col-xl-6">
+                    <h3 className="project-details__title-1">
+                    Coating Solution
+
+ 
+
+                </h3>
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        alt=""
+                        />
+                         <div className="project-details__img-box">
+                <div className="row">
+              
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Coating Paints
+
+                    </p>
+                </li>
+               
+              
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Sand Blasting Material
+
+
+                    </p>
+                </li>
+                
+             
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-6">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Coating Consumables
+
+
+                    </p>
+                </li>
+              
+             
+               
+                </ul>
+                    </div>
+                    
+             
+                    
+                   
+                </div>
+                </div>
+                    </div>
+                    
+                    </div>
+                  
+                    <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+                <div className="container">
+                <div className="row">
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Clamps And Hangers
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        Wide varieties of clamps and hangers
+Split Clamps | Rubber Hanger | Clevis Hangers | Heavy Duty
+Saddles | Sprinkler Hangers | Mounting Angles | Slotted Base &
+Slotted Strip | U – Bolts | Electric Junction Flush Boxes | Fastners
+& Base U Clamp | Sliding Pipe Support | Saddle Support | C
+Channels | Rail Nuts | Double Pipe Hanger with EPDM Lining
+
+                        </p>
+                       
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </section>
+
+            <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+                <div className="container">
+                <div className="row">
+                <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Mechanical And Power Tools
+
+                        </h2>
+                        </div>
+                        <p className="why-choose-one__text">
+                        Wide range of mechanical and power tools
+Cordless XR Lithium | XR Combo Kits | Construction
+Instruments | Drilling and Screw Driving | Hammers | Vices |
+Spanners | Wrenches | Building Tools | Allen Keys | Pliers |
+Sockets
+                        </p>
+                        
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                  
+                </div>
+                </div>
+            </section>
+                </div>
+</div>
+              
+            </div>
+            </div>
+{/* pdf page 6 */}
+
+
+{/* pdf page 7 */}
+
+<section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+                <div className="container">
+                <div className="row">
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__left">
+                        <div className="section-title text-left">
+                        {/* <div className="section-title__tagline-box">
+                            <span className="section-title__tagline">Why Choose Us</span>
+                        </div> */}
+                        <h2 className="section-title__title">
+                        Industrial Ventilation Solution
+
+                        </h2>
+                        </div>
+                        <div className="project-details__img-box">
+                <div className="row">
+              
+                    <div className="col-xl-10">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Centrifugal Down Blast Exhaust Fan
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Centrifugal Up Blast Exhaust Fan
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Centrifugal Roof Exhaust Fan
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Tube Axial inline Fan
+
+                    </p>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Vane Axial Fan
+
+                    </p>
+                </li>
+                
+               
+                </ul>
+                    </div>
+                
+                  
+                    
+             
+                    
+                   
+                </div>
+                </div>
+                       
+                        {/* <div className="why-choose-one__btn-box">
+                        <Link href="/about" className="thm-btn why-choose-one__btn">
+                            Read more
+                            <span />
+                        </Link>
+                        </div> */}
+                    </div>
+                    </div>
+                    <div className="col-xl-6 col-lg-6">
+                    <div className="why-choose-one__right">
+                        <div
+                        className="why-choose-one__img wow slideInRight"
+                        data-wow-delay="100ms"
+                        data-wow-duration="2500ms"
+                        >
+                        <img
+                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            alt=""
+                        />
+                       
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </section>
+            <div className="col-xl-12">
+            <div className="project-details__right">
+            <h3 className="project-details__title-1">
+            General Trading:
+
+                </h3>
+                <div className="project-details__img">
+                <img
+                    src="assets/images/project/project-details-img-1.jpg"
+                    alt=""
+                />
+                </div>
+                {/* <h6 className="blog-details__title-2">
+                Reliable Manpower, Guaranteed Performance!
+                </h6> */}
+                
+               
+                
+                
+
+ <div className="project-details__img-box">
+                <div className="row">
+                {/* <h4>Specialized Equipment List As follows:
+                </h4> */}
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+               
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Industrial Solvents Industrial degreasers
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Rust Remover
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Lubricant Oil & Greases 
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p> Air Conditioner and Coil Cleaner
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Heat Exchangers and Cooling Tower Cleaner
+
+                    </p>
+                </li>
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Solar Speed Radar
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Speed Gun
+
+
+                    </p>
+                </li>
+             
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Oil Absorbent pad and Rolls
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Pipe Cutting and Beveling Tools
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Spill Pallets
+
+
+                    </p>
+                </li>
+             
+               
+                </ul>
+                    </div>
+                    <div className="col-xl-4">
+                        
+                    <ul className="project-details__points list-unstyled">
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>
+                    Measuring Tools
+
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Hand Tools
+
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Power Tools
+
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Conical and Basket Strainers
+                    </p>
+                </li>
+                <li>
+                    <div className="icon">
+                    <span className="icon-dabble-arrow" />
+                    </div>
+                    <p>Gasket O-rings and Compression Packing
+
+                    </p>
+                </li>
+               
+               
+                </ul>
+                    </div>
+                    
+             
+                    
+                   
+                </div>
+                </div>
+
+
+
+              
+            </div>
+            </div>
+{/* pdf page 7 */}
 
 {/* pdf page 8 */}
 
