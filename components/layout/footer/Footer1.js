@@ -13,7 +13,7 @@ export default function Footer1() {
                 <div className="site-footer__top-inner">
                 <div className="row">
                     <div
-                    className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+                    className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                     data-wow-delay="100ms"
                     >
                     <div className="footer-widget__column footer-widget__about">
@@ -58,7 +58,7 @@ export default function Footer1() {
                     </div>
                     </div>
                     <div
-                    className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+                    className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                     data-wow-delay="200ms"
                     >
                     <div className="footer-widget__column footer-widget__company">
@@ -83,7 +83,7 @@ export default function Footer1() {
                     </div>
                     </div>
                     <div
-                    className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
+                    className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp"
                     data-wow-delay="300ms"
                     >
                     <div className="footer-widget__column footer-widget__services">
@@ -138,7 +138,7 @@ export default function Footer1() {
                         </ul>
                     </div>
                     </div>
-                    <div
+                    {/* <div
                     className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp"
                     data-wow-delay="400ms"
                     >
@@ -170,7 +170,7 @@ export default function Footer1() {
                         </form>
                         <div className="mc-form__response" />
                     </div>
-                    </div>
+                    </div> */}
                 </div>
                 </div>
             </div>

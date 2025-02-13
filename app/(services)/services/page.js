@@ -19,7 +19,7 @@ export default function Home() {
             </div>
             <div className="col-xl-12">
             <div className="project-details__right">
-            <h3 className="project-details__title-1">
+            <h3 className="project-details__title-1" style={{color:'#F39F1B'}}>
          Manpower Supply General
 
                 </h3>
@@ -418,8 +418,8 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
-                        Specialized Crew Supply
+                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        Specialized <span style={{color:'#F39F1B'}}>Crew Supply</span> 
 
                         </h2>
                         </div>
@@ -481,8 +481,8 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
-                        Specialized Equipment Supply
+                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        Specialized <span style={{color:'#F39F1B'}}> Equipment Supply</span>  
 
                         </h2>
                         </div>
@@ -579,8 +579,8 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
-                        Equipment Rental Services
+                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        Equipment <span style={{color:'#F39F1B'}}>Rental Services</span>  
 
 
                         </h2>
@@ -644,8 +644,8 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
-                        Vehicle Rental Services
+                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        Vehicle <span style={{color:'#F39F1B'}}>Rental Services</span>  
 
                         </h2>
                         </div>
@@ -679,7 +679,7 @@ export default function Home() {
                 <div className="col-xl-12">
             <div className="project-details__right">
             <h3 className="project-details__title-1" style={{color:'#030C4D',textAlign:'center'}}>
-            SPECIALIZED IN OIL & GAS, MARINE, INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS
+            SPECIALIZED IN OIL & GAS, MARINE,  <span style={{color:'#F39F1B'}}>INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS</span>  
                 </h3>
            
                 <div className="project-details__img">
