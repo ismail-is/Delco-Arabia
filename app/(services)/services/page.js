@@ -25,7 +25,7 @@ export default function Home() {
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="./assets/images/allimgs/servicepage/1-1.webp"
+                    src="./assets/images/allimgs/servicepage/first.webp"
                     alt=""
                 />
                 </div>
@@ -1122,7 +1122,7 @@ Duplex & Super Duplex, BRASS, Gunmetal, Phosphor Bronze</p>
                 </h3>
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/6-6.webp"
                         alt=""
                         />
                           <h3 style={{textAlign:'center',margin:'10px'}}>Stainless Steel and Carbon Steel Round Bar<br/>Stainless Steel and Carbon Steel Flat Bar</h3>
@@ -1136,7 +1136,7 @@ Duplex & Super Duplex, BRASS, Gunmetal, Phosphor Bronze</p>
                 </h3>
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/6-7.webp"
                         alt=""
                         />
                           <h3 style={{textAlign:'center',margin:'10px'}}>Galvanized Gratings<br/>FRP Gratings</h3>
@@ -1184,7 +1184,7 @@ All varieties of fasteners, nuts, bolts and solutions
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-8.webp"
                             alt=""
                         />
                        
@@ -1206,7 +1206,7 @@ All varieties of fasteners, nuts, bolts and solutions
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-9.webp"
                             alt=""
                         />
                        
@@ -1265,7 +1265,7 @@ Fire Sprinkler Fittings
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-10.webp"
                     alt=""
                 />
                 </div>
@@ -1406,7 +1406,7 @@ Instrumentation Hardware
                 </h3>
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/6-11.webp"
                         alt=""
                         />
                            <div className="project-details__img-box">
@@ -1482,7 +1482,7 @@ Instrumentation Hardware
                 </h3>
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/6-12.webp"
                         alt=""
                         />
                          <div className="project-details__img-box">
@@ -1591,7 +1591,7 @@ Channels | Rail Nuts | Double Pipe Hanger with EPDM Lining
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-13.webp"
                             alt=""
                         />
                        
@@ -1613,7 +1613,7 @@ Channels | Rail Nuts | Double Pipe Hanger with EPDM Lining
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-14.webp"
                             alt=""
                         />
                        
@@ -1750,7 +1750,7 @@ Sockets
                         data-wow-duration="2500ms"
                         >
                         <img
-                            src="assets/images/resources/why-choose-one-img-1.jpg"
+                            src="./assets/images/allimgs/servicepage/6-15.webp"
                             alt=""
                         />
                        
@@ -1768,7 +1768,7 @@ Sockets
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-16.webp"
                     alt=""
                 />
                 </div>
@@ -1963,7 +1963,7 @@ Sockets
                     <div className="col-xl-12">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/6-17.webp"
                         alt=""
                         />
                     </div>
@@ -1984,7 +1984,7 @@ Sockets
                     <div className="col-xl-6">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/6-18.webp"
                         alt=""
                         />
                     </div>
@@ -1992,7 +1992,7 @@ Sockets
                     <div className="col-xl-6">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/6-19.webp"
                         alt=""
                         />
                     </div>
@@ -2011,16 +2011,16 @@ Sockets
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/Piping .webp"
                         alt=""
                         />
-                        <h3 style={{textAlign:'center',margin:'10px'}}>Piping Spoo</h3>
+                        <h3 style={{textAlign:'center',margin:'10px'}}>Piping Spool</h3>
                     </div>
                     </div>
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/PipeSupport.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>Pipe Support</h3>
@@ -2029,7 +2029,7 @@ Sockets
                     <div className="col-xl-4">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/Pipe Clamps.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>Pipe Clamps</h3>
@@ -2048,7 +2048,7 @@ Sockets
                     <div className="col-xl-3">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/ShoeClamp.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>Shoe Clamp</h3>
@@ -2057,7 +2057,7 @@ Sockets
                     <div className="col-xl-3">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/SaddleClamp.webp"
                         alt=""
                         />
                         <h3 style={{textAlign:'center',margin:'10px'}}>Saddle Clamp </h3>
@@ -2066,19 +2066,19 @@ Sockets
                     <div className="col-xl-3">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-1.jpg"
+                        src="./assets/images/allimgs/servicepage/Utraps.webp"
                         alt=""
                         />
-                        <h3 style={{textAlign:'center',margin:'10px'}}>Utraps</h3>
+                        <h3 style={{textAlign:'center',margin:'10px'}}>U-Traps</h3>
                     </div>
                     </div>
                     <div className="col-xl-3">
                     <div className="project-details__img-box-img">
                         <img
-                        src="assets/images/project/project-details-img-box-img-2.jpg"
+                        src="./assets/images/allimgs/servicepage/Ubolt.webp"
                         alt=""
                         />
-                        <h3 style={{textAlign:'center',margin:'10px'}}>Ubolt</h3>
+                        <h3 style={{textAlign:'center',margin:'10px'}}>U-Bolt</h3>
                     </div>
                     </div>
                 </div>
@@ -2094,7 +2094,7 @@ Sockets
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="assets/images/project/project-details-img-1.jpg"
+                    src="./assets/images/allimgs/servicepage/6-20.webp"
                     alt=""
                 />
                 </div>
