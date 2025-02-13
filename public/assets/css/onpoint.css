@@ -4192,9 +4192,9 @@ select.selectmenu.wide {
   top: 0;
   right: 0;
   bottom: 0;
-  width: calc((100% - 40px) / 2);
+  width: calc((100% - 20px) / 1 );
   background-size: cover;
-  background-position: top right;
+  /* background-position: top right; */
   background-repeat: no-repeat;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -7136,9 +7136,9 @@ select.selectmenu.wide {
 }
 
 .project-details__title-1 {
-  font-size: 48px;
+  font-size: 28px;
   font-weight: 700;
-  line-height: 58px;
+  line-height: 28px;
   margin-top: 26px;
   margin-bottom: 15px;
 }
@@ -8782,7 +8782,7 @@ select.selectmenu.wide {
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
   .section-title__title {
-      font-size: 25px;
+      font-size: 35px;
       line-height: 35px;
   }
   

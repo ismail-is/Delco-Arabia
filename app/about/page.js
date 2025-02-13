@@ -27,7 +27,7 @@ export default function Home() {
                                     <span className="section-title__tagline">About Us</span>
                                 </div>
                                 <h2 className="section-title__title">
-                                Delco Arabia: Excellence in Industrial Trading & Contracting
+                              <span style={{color:'#F39F1B'}}> Delco Arabia: </span> Excellence in Industrial Trading & Contracting
                                 </h2>
                                 </div>
                                 <p className="about-one__text">

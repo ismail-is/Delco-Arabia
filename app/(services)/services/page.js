@@ -21,10 +21,10 @@ export default function Home() {
             </div>
             <div className="col-xl-12">
             <div className="project-details__right">
-            <h3 className="project-details__title-1" style={{color:'#030C4D'}}>
+            <h2 className="section-title__title" style={{color:'#030C4D',marginBottom:'20px'}}>
          Manpower <span style={{color:'#F39F1B'}}>Supply General</span>  
 
-                </h3>
+                </h2>
                 <div className="project-details__img">
                 <img
                     src="./assets/images/allimgs/servicepage/first.webp"
@@ -411,7 +411,7 @@ export default function Home() {
 
 
 {/* 2 */}
-<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+<section className="why-choose-one" style={{marginBottom:'200px',marginTop:'-200px'}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6">
@@ -459,7 +459,7 @@ export default function Home() {
    
 {/* 3 */}
 
-<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+<section className="why-choose-one" style={{marginBottom:'200px',marginTop:'-130px'}}>
                 <div className="container">
                 <div className="row">
                 <div className="col-xl-6 col-lg-6">
@@ -483,7 +483,7 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'20px'}}>
                         Specialized <span style={{color:'#F39F1B'}}> Equipment Supply</span>  
 
                         </h2>
@@ -498,7 +498,7 @@ export default function Home() {
                 <div className="row">
                 <h4>Specialized Equipment List As follows:
                 </h4>
-                    <div className="col-xl-6">
+                    <div className="col-xl-12" style={{marginTop:'10px'}}>
                         
                     <ul className="project-details__points list-unstyled">
                 <li>
@@ -509,16 +509,12 @@ export default function Home() {
                     Fire Truck
 
                     </p>
-                </li>
-                <li>
                     <div className="icon">
                     <span className="icon-dabble-arrow" />
                     </div>
                     <p>Ambulance
 
                     </p>
-                </li>
-                <li>
                     <div className="icon">
                     <span className="icon-dabble-arrow" />
                     </div>
@@ -526,10 +522,12 @@ export default function Home() {
 
                     </p>
                 </li>
+              
+               
                
                 </ul>
                     </div>
-                    <div className="col-xl-6">
+                    <div className="col-xl-6" style={{marginTop:'15px'}}>
                         
                     <ul className="project-details__points list-unstyled">
                 <li>
@@ -541,8 +539,6 @@ export default function Home() {
 
 
                     </p>
-                </li>
-                <li>
                     <div className="icon">
                     <span className="icon-dabble-arrow" />
                     </div>
@@ -551,6 +547,7 @@ export default function Home() {
 
                     </p>
                 </li>
+               
              
                
                 </ul>
@@ -572,7 +569,7 @@ export default function Home() {
 
 
 {/* 4 */}
-<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+<section className="why-choose-one" style={{marginBottom:'200px',marginTop:'-130px'}}>
                 <div className="container">
                 <div className="row">
                     <div className="col-xl-6 col-lg-6">
@@ -581,7 +578,7 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'-30px'}}>
                         Equipment <span style={{color:'#F39F1B'}}>Rental Services</span>  
 
 
@@ -622,7 +619,7 @@ export default function Home() {
 
 
 {/* 5 */}
-<section className="why-choose-one" style={{marginBottom:'240px',marginTop:'-130px'}}>
+<section className="why-choose-one" style={{marginBottom:'150px',marginTop:'-130px'}}>
                 <div className="container">
                 <div className="row">
                 <div className="col-xl-6 col-lg-6">
@@ -646,7 +643,7 @@ export default function Home() {
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title" style={{color:'#030C4D'}}>
+                        <h2 className="section-title__title" style={{color:'#030C4D',marginTop:'30px'}}>
                         Vehicle <span style={{color:'#F39F1B'}}>Rental Services</span>  
 
                         </h2>
@@ -680,8 +677,8 @@ export default function Home() {
                 <div className="row">
                 <div className="col-xl-12">
             <div className="project-details__right">
-            <h3 className="project-details__title-1" style={{color:'#030C4D',textAlign:'center'}}>
-            SPECIALIZED IN OIL & GAS, MARINE,  <span style={{color:'#F39F1B'}}>INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS</span>  
+            <h3 className="section-title__title" style={{color:'#030C4D',textAlign:'center'}}>
+            SPECIALIZED IN OIL & GAS, MARINE, <span style={{color:'#F39F1B',textAlign:'justify',textJustify:'inter-word'}}>INDUSTRIAL MATERIAL AND MECHANICAL FABRICATION WORKS</span>  
                 </h3>
            
                 <div className="project-details__img">
@@ -709,7 +706,7 @@ Industry Standards: ASTM | ANSI | API 600 | API 603 | API 598 | ASME B16.34 | B1
 
                 <div className="project-details__img-box">
                 <div className="row">
-                      <h6 className="blog-details__title-2">
+                      <h6 className="blog-details__title-2" style={{marginTop:'-10px'}}>
                       Flanges
 
                 </h6>
@@ -848,7 +845,7 @@ IBR/NIBR,
 316, 316H, 316L, 316TI, 309,310, 317L, 321, 347,904, 904L, 409, 409M,
 410,420,430,446, Etc.  </p>
 <p className="why-choose-one__text" style={{marginTop:'20px'}}><span style={{color:'#030C4D'}}>Size Range:</span>SEAMLESS 1/4" NB to 28"NB, ERW: ¼" NB to 80" NB </p>
-                <div className="project-details__img-box">
+                {/* <div className="project-details__img-box">
                 <div className="row">
                       <h6 className="blog-details__title-2">
                       Flanges
@@ -947,7 +944,7 @@ IBR/NIBR,
                     
                    
                 </div>
-                </div>
+                </div> */}
             
               
             </div>
@@ -1197,7 +1194,7 @@ All varieties of fasteners, nuts, bolts and solutions
                 </div>
             </section>
 
-            <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+            <section className="why-choose-one" style={{marginBottom:'10px',marginTop:'30px'}}>
                 <div className="container">
                 <div className="row">
                 <div className="col-xl-6 col-lg-6">
@@ -1221,7 +1218,7 @@ All varieties of fasteners, nuts, bolts and solutions
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
+                        <h2 className="section-title__title" style={{marginTop:'25px'}}>
                         Plastic Valves And Fittings
 
                         </h2>
@@ -1259,7 +1256,7 @@ Fire Sprinkler Fittings
 {/* pdf page 5 */}
 
 {/* pdf page 6 */}
-<div className="col-xl-12">
+<div className="col-xl-12" >
             <div className="project-details__right">
             <h3 className="project-details__title-1">
             Instrumentation and Fittings
@@ -1604,7 +1601,7 @@ Channels | Rail Nuts | Double Pipe Hanger with EPDM Lining
                 </div>
             </section>
 
-            <section className="why-choose-one" style={{marginBottom:'40px',marginTop:'30px'}}>
+            <section className="why-choose-one" style={{marginBottom:'10px',marginTop:'30px'}}>
                 <div className="container">
                 <div className="row">
                 <div className="col-xl-6 col-lg-6">
@@ -1628,7 +1625,7 @@ Channels | Rail Nuts | Double Pipe Hanger with EPDM Lining
                         {/* <div className="section-title__tagline-box">
                             <span className="section-title__tagline">Why Choose Us</span>
                         </div> */}
-                        <h2 className="section-title__title">
+                        <h2 className="section-title__title" style={{marginTop:'25px'}}>
                         Mechanical And Power Tools
 
                         </h2>
@@ -1954,7 +1951,7 @@ Sockets
 {/* pdf page 8 */}
 
 
-<div className="project-details__img-box">
+<div className="project-details__img-box" style={{marginBottom:'-50px'}}>
                 <div className="row">
                 <h3 className="project-details__title-1">
                 Mechanical Fabrication
@@ -1976,7 +1973,7 @@ Sockets
                 </div>
 </div>
 
-<div className="project-details__img-box">
+<div className="project-details__img-box" >
                 <div className="row">
                 <h3 className="project-details__title-1">
                 Structural Steel Fabrication
@@ -2003,7 +2000,7 @@ Sockets
                     
                 </div>
 </div>
-<div className="project-details__img-box">
+<div className="project-details__img-box" style={{marginTop:'-30px'}}>
                 <div className="row">
                 <h3 className="project-details__title-1">
                 Spools and Supports
@@ -2041,7 +2038,7 @@ Sockets
                 </div>
 </div>
 
-<div className="project-details__img-box">
+<div className="project-details__img-box" style={{marginTop:'-30px'}}>
                 <div className="row">
                 <h3 className="project-details__title-1">
                 Pipe Clamps 
