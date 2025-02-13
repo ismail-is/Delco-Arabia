@@ -357,7 +357,7 @@ export default function Home() {
                                 <div className="content">
                                 <p>Need help?</p>
                                 <h3>
-                                    <a href="tel:966 01 3667 0464">966 01 3667 0464 </a>
+                                    <a href="tel:966 01 3667 0464">+966 01 3667 0464 </a>
                                 </h3>
                                 </div>
                             </div>

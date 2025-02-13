@@ -122,7 +122,7 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
                     </li>
                     <li>
                         <i className="fa fa-phone-alt" />
-                        <a href="tel:966 01 3667 0464">966 01 3667 0464
+                        <a href="tel:966 01 3667 0464">+966 01 3667 0464
                         </a>
                     </li>
                     </ul>

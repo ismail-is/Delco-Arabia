@@ -50,7 +50,7 @@ export default function Footer1() {
                             <span className="icon-call phone-call"  style={{color:'#F39F1B'}}/>
                             </div>
                             <p>
-                            <Link href="tel:966 01 3667 0464">966 01 3667 0464
+                            <Link href="tel:966 01 3667 0464">+966 01 3667 0464
                             </Link>
                             </p>
                         </li>
@@ -179,7 +179,7 @@ export default function Footer1() {
             <div className="container">
                 <div className="site-footer__bottom-inner">
                 <p className="site-footer__bottom-text">
-                    © Delco Arabia 2025 |Site created by
+                    © Delco Arabia 2025 |Site Created By
                     <a href="https://mscreation.tech/" style={{color:"#F39F1B"}}> Ms Creation</a>
                 </p>
                 <div className="footer-widget-two__social">
