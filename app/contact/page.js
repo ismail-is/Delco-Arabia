@@ -154,7 +154,7 @@ export default function Home() {
                     {/*Google Map Start*/}
                     <section className="google-map-one google-map-two">
                         <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21661.716746634596!2d49.632672743942685!3d27.006670138014503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e35a05e4e3e9251%3A0x37d923d58849172!2sAl%20Jubail%2035514%2C%20Saudi%20Arabia!5e1!3m2!1sen!2sin!4v1739431631517!5m2!1sen!2sin"
                         className="google-map__one"
                         allowFullScreen=""
                         />
