@@ -19,8 +19,8 @@ export default function Home() {
             </div>
             <div className="col-xl-12">
             <div className="project-details__right">
-            <h3 className="project-details__title-1" style={{color:'#F39F1B'}}>
-         Manpower Supply General
+            <h3 className="project-details__title-1" style={{color:'#030C4D'}}>
+         Manpower <span style={{color:'#F39F1B'}}>Supply General</span>  
 
                 </h3>
                 <div className="project-details__img">
