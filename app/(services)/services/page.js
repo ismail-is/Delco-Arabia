@@ -1767,7 +1767,7 @@ Sockets
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="./assets/images/allimgs/servicepage/6-16.webp"
+                    src="./assets/images/allimgs/servicepage/General .webp"
                     alt=""
                 />
                 </div>
@@ -2093,7 +2093,7 @@ Sockets
                 </h3>
                 <div className="project-details__img">
                 <img
-                    src="./assets/images/allimgs/servicepage/6-20.webp"
+                    src="./assets/images/allimgs/servicepage/structuralsteel .webp"
                     alt=""
                 />
                 </div>

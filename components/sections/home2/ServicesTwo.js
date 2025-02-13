@@ -74,7 +74,7 @@ export default function ServicesTwo() {
                         <h3 className="services-two__title">
                         {/* <Link href="/quick-move-logistics"> */}
                             {" "}
-                            MISSION
+                            Mission
                         {/* </Link> */}
                         </h3>
                         <p className="services-two__text">

@@ -6,6 +6,7 @@ import CounterUp from "@/components/elements/CounterUp"
 import Layout from "@/components/layout/Layout"
 import TestimonialSlider1 from "@/components/slider/TestimonialSlider1"
 import ServicesTwo from "@/components/sections/home2/ServicesTwo";
+import Cta from "@/components/sections/home1/Cta";
 
 export default function Home() {
     const [isOpen, setOpen] = useState(false);
@@ -330,7 +331,7 @@ export default function Home() {
 
 
                     {/*CTA One Start*/}
-                    <section className="cta-one cta-two">
+                    {/* <section className="cta-one cta-two">
                         <div className="container">
                         <div className="cta-one__inner">
                             <div
@@ -364,7 +365,8 @@ export default function Home() {
                             </div>
                         </div>
                         </div>
-                    </section>
+                    </section> */}
+                     <Cta/>
                     {/*CTA One End*/}
                     <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="vfhzo499OeA" onClose={() => setOpen(false)} /> 
                 </div>
