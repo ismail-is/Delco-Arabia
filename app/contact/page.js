@@ -1,11 +1,14 @@
 
+import Breadcrumb from "@/components/layout/Breadcrumb"
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 export default function Home() {
 
     return (
         <>
-            <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="CONTACT US">
+   <Layout>
+   {/* <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="CONTACT US" page="contact"> */}
+    <Breadcrumb breadcrumbTitle="CONTACT US" page="contact" />
                 <div>
 
                     {/*Contact One Start*/}

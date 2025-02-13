@@ -1,4 +1,5 @@
 'use client'
+import Breadcrumb from "@/components/layout/Breadcrumb"
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import { useState } from 'react'
@@ -7,7 +8,8 @@ export default function Home() {
 
     return (
         <>
-              <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="services">
+              <Layout >
+              <Breadcrumb breadcrumbTitle="SERVICES" page="service" />
 
 <div>
     {/*Project Details Start*/}
