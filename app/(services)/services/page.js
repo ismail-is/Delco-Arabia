@@ -1763,7 +1763,7 @@ Sockets
             <div className="col-xl-12">
             <div className="project-details__right">
             <h3 className="project-details__title-1">
-            General Trading:
+            General Trading
 
                 </h3>
                 <div className="project-details__img">
