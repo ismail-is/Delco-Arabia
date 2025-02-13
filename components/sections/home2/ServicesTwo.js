@@ -26,12 +26,14 @@ export default function ServicesTwo() {
                     >
                     <div className="services-two__single">
                         <div className="services-two__icon">
-                        <span className="icon-postbox" />
+                        <span >
+                        <img src="./assets/images/allimgs/icon/vision.png" style={{height:'40px'}}/>
+                        </span>
                         </div>
                         <h3 className="services-two__title">
-                        <Link href="/express-freight-solutions">
+                        {/* <Link href="/express-freight-solutions"> */}
                         Vision
-                        </Link>
+                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         To be an Industry leader in Oil & Gas field in the region, to be an nnovative and sustainable partner
@@ -43,12 +45,14 @@ export default function ServicesTwo() {
                     <div className="col-xl-6 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
                     <div className="services-two__single">
                         <div className="services-two__icon">
-                        <span className="icon-container" />
+                        <span >
+                        <img src="./assets/images/allimgs/icon/policy.png" style={{height:'40px'}}/>
+                        </span>
                         </div>
                         <h3 className="services-two__title">
-                        <Link href="/speedy-dispatch">
+                        {/* <Link href="/speedy-dispatch"> */}
                         Our HSEQ Policy
-                        </Link>
+                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         Committed to top-tier HSE management with zero tolerance, DACO ensures stakeholder protection while delivering superior services that exceed client expectations.
@@ -63,13 +67,15 @@ export default function ServicesTwo() {
                     >
                     <div className="services-two__single">
                         <div className="services-two__icon">
-                        <span className="icon-crane" />
+                        <span >
+                        <img src="./assets/images/allimgs/icon/mission.png" style={{height:'40px'}}/>
+                        </span>
                         </div>
                         <h3 className="services-two__title">
-                        <Link href="/quick-move-logistics">
+                        {/* <Link href="/quick-move-logistics"> */}
                             {" "}
                             MISSION
-                        </Link>
+                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         To deliver world class sustainable, integrated and Quality products & ervices
@@ -90,13 +96,15 @@ export default function ServicesTwo() {
                     >
                     <div className="services-two__single">
                         <div className="services-two__icon">
-                        <span className="icon-crane" />
+                        <span >
+                        <img src="./assets/images/allimgs/icon/Quality.png" style={{height:'40px'}}/>
+                        </span>
                         </div>
                         <h3 className="services-two__title">
-                        <Link href="/quick-move-logistics">
+                        {/* <Link href="/quick-move-logistics"> */}
                             {" "}
                             Our Quality Policy
-                        </Link>
+                        {/* </Link> */}
                         </h3>
                         <p className="services-two__text">
                         It is explicit policy of our company to provide service to customer and meet

@@ -334,7 +334,7 @@ export default function Home() {
                         <div className="container">
                         <div className="cta-one__inner">
                             <div
-                            className="cta-one__bg-img"
+                            className=""
                             style={{
                                 backgroundImage: "url(./assets/images/allimgs/contactpage/footer.webp)"
                             }}
