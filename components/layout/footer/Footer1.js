@@ -53,6 +53,10 @@ export default function Footer1() {
                             <Link href="tel:966 55 592 3198 
 ">+966 55 592 3198 
 
+                            </Link><br/>
+                            <Link href="tel:966 58 176 5070 
+">+966 58 176 5070 
+
                             </Link>
                             </p>
                         </li>

@@ -127,6 +127,13 @@ const MobileMenu = ({ isSidebar, handleMobileMenu, handleSidebar }) => {
 
                         </a>
                     </li>
+                    <li>
+                        <i className="fa fa-phone-alt" />
+                        <a href="tel:966 58 176 5070  
+">+966 58 176 5070  
+
+                        </a>
+                    </li>
                     </ul>
                     {/* /.mobile-nav__contact */}
                     <div className="mobile-nav__top">
