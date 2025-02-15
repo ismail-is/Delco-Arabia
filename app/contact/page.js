@@ -36,7 +36,7 @@ export default function Home() {
                                 </p>
                                 <p>
                                     <a href="tel:+966 58 176 5070  
-">+966581765070 
+">+966 58 176 5070 
 </a>
                                 </p>
                                 {/* <p>
