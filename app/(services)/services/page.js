@@ -1,6 +1,7 @@
 'use client'
 import Breadcrumb from "@/components/layout/Breadcrumb"
 import Layout from "@/components/layout/Layout"
+import Cta from "@/components/sections/home1/Cta"
 import Link from "next/link"
 import { useState } from 'react'
 export default function Home() {
@@ -2323,7 +2324,7 @@ Sockets
 
 
     {/*CTA One Start*/}
-    <section className="cta-one">
+    {/* <section className="cta-one">
         <div className="container">
         <div className="cta-one__inner">
             <div
@@ -2359,7 +2360,8 @@ Sockets
             </div>
         </div>
         </div>
-    </section>
+    </section> */}
+    <Cta/>
     {/*CTA One End*/}
 
     

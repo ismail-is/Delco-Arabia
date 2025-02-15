@@ -51,7 +51,7 @@ export default function Banner() {
                         <div className="banner-one__img-box">
                         <div className="banner-one__img">
                             <img
-                            src="assets/images/resources/banner-one-img-1.jpg"
+                            src="./assets/images/allimgs/homepage/banner1.webp"
                             alt=""
                             />
                         </div>
@@ -70,7 +70,7 @@ export default function Banner() {
                         </div>
                         <div className="banner-one__img-two">
                             <img
-                            src="assets/images/resources/banner-one-img-2.jpg"
+                            src="./assets/images/allimgs/homepage/banner1.webp"
                             alt=""
                             />
                         </div>
