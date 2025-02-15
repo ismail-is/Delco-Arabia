@@ -29,7 +29,14 @@ export default function Home() {
                                 <div className="content">
                                 <h3>Lets Talk us</h3>
                                 <p>
-                                    <a href="tel:+966 01 3667 0464">+966 01 3667 0464</a>
+                                    <a href="tel:+966 55 592 3198 
+">+966 55 592 3198 
+</a>
+                                </p>
+                                <p>
+                                    <a href="tel:+966 58 176 5070  
+">+966581765070 
+</a>
                                 </p>
                                 {/* <p>
                                     Fax: <a href="tel:123458963007">1234 -58963 - 007</a>
@@ -189,7 +196,9 @@ export default function Home() {
                                 <div className="content">
                                 <p>Need help?</p>
                                 <h3>
-                                    <a href="tel:966 01 3667 0464">+966 01 3667 0464</a>
+                                    <a href="tel:966 55 592 3198 
+">+966 55 592 3198 
+</a>
                                 </h3>
                                 </div>
                             </div>

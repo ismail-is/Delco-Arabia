@@ -50,7 +50,9 @@ export default function Footer1() {
                             <span className="icon-call phone-call"  style={{color:'#F39F1B'}}/>
                             </div>
                             <p>
-                            <Link href="tel:966 01 3667 0464">+966 01 3667 0464
+                            <Link href="tel:966 55 592 3198 
+">+966 55 592 3198 
+
                             </Link>
                             </p>
                         </li>

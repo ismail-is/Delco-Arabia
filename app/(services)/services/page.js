@@ -612,6 +612,70 @@ export default function Home() {
                         </div>
                     </div>
                     </div>
+
+
+                    {/* img */}
+                    <div className="project-details__img-box" style={{marginTop:'30px'}}>
+                <div className="row">
+              
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/1.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/2.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/3.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                   
+                </div>
+</div>
+                    <div className="project-details__img-box" style={{marginTop:'30px'}}>
+                <div className="row">
+              
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/4.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/5.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                    <div className="col-xl-4">
+                    <div className="project-details__img-box-img">
+                        <img
+                        src="./assets/images/allimgs/more/6.webp"
+                        alt=""
+                        />
+                    </div>
+                    </div>
+                   
+                </div>
+</div>
+       {/* img */}
                 </div>
                 </div>
             </section>
@@ -2286,7 +2350,9 @@ Sockets
                 <div className="content">
                 <p>Need help?</p>
                 <h3>
-                    <Link href="tel:966 01 3667 0464">+966 01 3667 0464</Link>
+                    <Link href="tel:966 55 592 3198 
+">+966 55 592 3198 
+</Link>
                 </h3>
                 </div>
             </div>
