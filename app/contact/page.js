@@ -1,6 +1,7 @@
 
 import Breadcrumb from "@/components/layout/Breadcrumb"
 import Layout from "@/components/layout/Layout"
+import Form from "@/components/sections/home1/Form"
 import Link from "next/link"
 export default function Home() {
 
@@ -76,7 +77,7 @@ export default function Home() {
 
 
                     {/*Contact Two Start*/}
-                    <section className="contact-two">
+                    {/* <section className="contact-two">
                         <div className="container">
                         <div className="row">
                             <div className="col-xl-7">
@@ -155,7 +156,8 @@ export default function Home() {
                             </div>
                         </div>
                         </div>
-                    </section>
+                    </section> */}
+                    <Form/>
                     {/*Contact Two End*/}
                    
                     {/*Google Map Start*/}
